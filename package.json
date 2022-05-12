@@ -1,5 +1,5 @@
 {
-  "name": "config-provider",
+  "name": "simple-config-provider",
   "version": "0.0.0",
   "description": "Configuration provider object for NodeJS projects.",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/matiasmarcodelpont/config-provider.git"
+    "url": "git://github.com/matiasmarcodelpont/simple-config-provider.git"
   },
   "keywords": [
     "config",

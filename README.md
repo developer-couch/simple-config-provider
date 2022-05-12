@@ -1,2 +1,2 @@
-# config-provider
+# simple-config-provider
 Configuration provider object for NodeJS projects.
