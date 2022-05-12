@@ -1,7 +1,7 @@
 {
   "name": "simple-config-provider",
   "version": "0.0.0",
-  "description": "Configuration provider object for NodeJS projects.",
+  "description": "Configuration provider object for NodeJS projects that loads configuration from environment.",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint .",
@@ -16,7 +16,9 @@
     "configuration",
     "settings",
     "env",
-    "environment"
+    "environment",
+    "variables",
+    "dotenv"
   ],
   "author": "Matías Marcó del Pont <matiasmdelp@gmail.com>",
   "license": "MIT",
