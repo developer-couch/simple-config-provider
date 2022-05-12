@@ -1,6 +1,6 @@
 {
   "name": "simple-config-provider",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Configuration provider object for NodeJS projects that loads configuration from environment.",
   "main": "lib/index.js",
   "scripts": {
