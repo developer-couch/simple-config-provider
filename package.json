@@ -4,6 +4,7 @@
   "description": "Configuration provider object for NodeJS projects that loads configuration from environment.",
   "main": "lib/index.js",
   "scripts": {
+    "build-types": "tsc",
     "lint": "eslint .",
     "test": "mocha"
   },
@@ -32,6 +33,7 @@
     "eslint-plugin-mocha": "^10.0.4",
     "eslint-plugin-n": "^15.2.0",
     "eslint-plugin-promise": "^6.0.0",
-    "mocha": "^10.0.0"
+    "mocha": "^10.0.0",
+    "typescript": "^4.6.4"
   }
 }
