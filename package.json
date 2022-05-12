@@ -1,0 +1,35 @@
+{
+  "name": "config-provider",
+  "version": "0.0.0",
+  "description": "Configuration provider object for NodeJS projects.",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matiasmarcodelpont/config-provider.git"
+  },
+  "keywords": [
+    "config",
+    "configuration",
+    "settings",
+    "env",
+    "environment"
+  ],
+  "author": "Matías Marcó del Pont <matiasmdelp@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.23.0",
+    "@typescript-eslint/parser": "^5.23.0",
+    "chai": "^4.3.6",
+    "eslint": "^8.15.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-mocha": "^10.0.4",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "mocha": "^10.0.0"
+  }
+}
